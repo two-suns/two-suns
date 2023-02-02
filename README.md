@@ -14,7 +14,7 @@
 ---
 
 ### :man_technologist: About Me:
-I am an aspiring data scientist in Jacksonville, FL.
+I am a data analyst in Jacksonville, FL looking to land my first role in the industry.
 - :books: I am ready to apply the practical skills and theory learned while obtaining my degree and recent certification.
 - :stethoscope: I have 10+ years of experience in the healthcare industry as a security officer. I would be excited to apply my knowledge in this area. However, I am open to and can learn any industry.
 - :video_game: In my free time, I enjoy video games, baseball and football, and catching up on movies and TV shows.
