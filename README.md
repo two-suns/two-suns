@@ -13,7 +13,7 @@
 
 ---
 
-### :man_technologist: About Me:
+### 🧑🏻‍💻: About Me:
 I am a data analyst in Jacksonville, FL looking to land my first role in the industry.
 - :books: I am ready to apply the practical skills and theory learned while obtaining my degree and recent certification.
 - :stethoscope: I have 10+ years of experience in the healthcare industry as a security officer. I would be excited to apply my knowledge in this area. However, I am open to and can learn any industry.
@@ -21,7 +21,7 @@ I am a data analyst in Jacksonville, FL looking to land my first role in the ind
 
 ---
 
-### :hammer_and_wrench: Languages and Tools:
+### 🛠️: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40"/>&nbsp;
