@@ -16,14 +16,16 @@
 ### 🧑🏻‍💻: About Me:
 I am building my programming skills while looking for my opportunity to shine in the tech industry.
 - :books: I am ready to apply the practical skills and theory learned while obtaining my degree and recent certification.
-    - BS Business IT Management
-    - Cert Data Visualization and Analytics
-    - Harvard CS50x (in progress)
-- :stethoscope: I have 10+ years of experience in the healthcare industry as a security officer. I would be excited to apply my knowledge in this area. However, I am knowledgeable in many areas and I am confident I can excel in any industry.
-- :video_game: In my free time, I enjoy:
-    - Video games
-    - Baseball and football
-    - Catching up on movies and TV shows.
+    - 👨‍🎓 BS Business IT Management
+    - 📜 Cert Data Visualization and Analytics (UoMinn | Google | Data Career Jumpstart)
+    - 🖥️ Harvard CS50x (in progress)
+- :stethoscope: I have 10+ years of experience in the healthcare industry as a 👮 security officer. I would be excited to apply my knowledge in this area. However, I am knowledgeable in many areas and I am confident I can excel in any industry.
+    - 🧩 In my free time, I enjoy:
+    - 🎮 Video games | 🎲 Board Games
+    - ⚾ Baseball | 🏈 Football
+    - 🎥 Catching up on movies and TV shows
+    - 🎣 Fishing
+    - 👪 Spending time with family
 
 ---
 
