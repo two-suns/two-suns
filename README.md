@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/xTiIztXKREZGxTOUTe/giphy.gif?cid=ecf05e476g70xk7nks4e3m5uj1xab99k117exaudwgotrhjk&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400"/>
+  <img src="https://github.com/two-suns/html-resume/blob/main/Assets/Images/Headshot.jpg" width="320" height="400"/>
   <div id="greeting">
     <h2>
       Hello there!
@@ -7,19 +7,19 @@
     </h2>
   </div>
   <div align="center">
-  <img src="https://media2.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif?cid=ecf05e4797ilkg39kf3sesrz4k3xk40pitlh8ntg4ddf0k3d&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="400" height="300"/>
+  <img src="https://media2.giphy.com/media/xTiIztXKREZGxTOUTe/giphy.gif?cid=ecf05e476g70xk7nks4e3m5uj1xab99k117exaudwgotrhjk&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400"/>
   </div>
 </div>
 
 ---
 
 ### 🧑🏻‍💻: About Me:
-I am building my programming skills while looking for my opportunity to shine in the tech industry.
+I am building my programming skills while looking for an opportunity to shine in the tech industry.
 - :books: I am ready to apply the practical skills and theory learned while obtaining my degree and recent certification.
     - 👨‍🎓 BS Business IT Management
     - 📜 Cert Data Visualization and Analytics (UoMinn | Google | Data Career Jumpstart)
     - 🖥️ Harvard CS50x (in progress)
-- :stethoscope: I have 10+ years of experience in the healthcare industry as a 👮 security officer. I would be excited to apply my knowledge in this area. However, I am knowledgeable in many areas and I am confident I can excel in any industry.
+- :stethoscope: I have 10+ years of experience in the healthcare industry as a 👮 security officer. I would be excited to apply my knowledge in this area. However, I am knowledgeable in many areas, and I am confident I can excel in any industry.
     - 🧩 In my free time, I enjoy:
     - 🎮 Video games | 🎲 Board Games
     - ⚾ Baseball | 🏈 Football
