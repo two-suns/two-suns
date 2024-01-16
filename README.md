@@ -19,7 +19,7 @@ I am building my programming skills while looking for an opportunity to shine in
     - 👨‍🎓 BS Business IT Management
     - 📜 Cert Data Visualization and Analytics (UoMinn | Google | Data Career Jumpstart)
     - 🖥️ Harvard CS50x (in progress)
-- :stethoscope: I have 10+ years of experience in the healthcare industry as a 👮 security officer. I would be excited to apply my knowledge in this area. However, I am knowledgeable in many areas, and I am confident I can excel in any industry.
+- :stethoscope: I have 10+ years of experience in the healthcare industry as a 👮 security officer. I would be excited to apply my knowledge in this area. However, with my broad business acumen and IT skills, I am confident I can excel in any industry.
     - 🧩 In my free time, I enjoy:
     - 🎮 Video games | 🎲 Board Games
     - ⚾ Baseball | 🏈 Football
